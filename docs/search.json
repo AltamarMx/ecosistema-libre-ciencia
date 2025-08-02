@@ -1,0 +1,261 @@
+[
+  {
+    "objectID": "index.html#libre-gratis",
+    "href": "index.html#libre-gratis",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Libre ≠ Gratis?",
+    "text": "¿Libre ≠ Gratis?\n\nGratis: no pagas dinero\nLibre: tienes libertad\n\nUsar con cualquier propósito\nEstudiar cómo funciona\nModificarlo\nCompartirlo\nHacer modelo de negocio\n\n\n\nPuedes pagar por algo libre, y algo gratis puede no darte libertad"
+  },
+  {
+    "objectID": "index.html#qué-es-foss",
+    "href": "index.html#qué-es-foss",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Qué es FOSS?",
+    "text": "¿Qué es FOSS?\nFOSS = Free and Open Source Software\n\nFree: libertad de uso, no necesariamente sin costo\nOpen Source: el código está disponible y auditable\nPromueve:\n\nCiencia reproducible\nTransparencia\nColaboración global"
+  },
+  {
+    "objectID": "index.html#foss-vs.-software-propietario",
+    "href": "index.html#foss-vs.-software-propietario",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "FOSS vs. Software propietario",
+    "text": "FOSS vs. Software propietario\n\n\n\n\n\n\n\n\nCaracterística\nFOSS\nPropietario\n\n\n\n\nAcceso al código\nAbierto\nCerrado\n\n\nCosto\nPuede ser gratis o con soporte\nGeneralmente con licencia\n\n\nLibertad de uso\nSin restricciones\nLimitado por licencia\n\n\nPersonalización\nTotal (puedes modificarlo)\nMuy limitada o nula\n\n\nComunidad\nAbierta y colaborativa\nControlada por una empresa"
+  },
+  {
+    "objectID": "index.html#por-qué-usar-foss-en-ciencia",
+    "href": "index.html#por-qué-usar-foss-en-ciencia",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Por qué usar FOSS en ciencia?",
+    "text": "¿Por qué usar FOSS en ciencia?\n\n💸 Económico: sin licencias costosas, accesible para todos\n🌍 Comunidad global: soporte activo, mejora continua\n🔄 Reproducible: auditable, trazable, replicable\n🧠 Transparente: entiendes cómo y por qué funciona\n🤝 Filosofía de compartir: ciencia como bien común\n🧭 Autonomía: sin depender de corporaciones ni cajas negras\n\n\nFOSS no es solo software, es una postura ética ante el conocimiento.\n\nClaro, aquí tienes una diapositiva breve y directa que aborda esa paradoja de la curva de aprendizaje:"
+  },
+  {
+    "objectID": "index.html#foss-es-difícil",
+    "href": "index.html#foss-es-difícil",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿FOSS es difícil?",
+    "text": "¿FOSS es difícil?\n\nSí: curva de aprendizaje más dura\nPero…\n\nAprendes cómo funciona realmente\nEvitas dependencias opacas\nAutomatizas tareas repetitivas\nEscalas sin licencias ni límites\nTe haces más autónomo y eficiente\n\n\n\nInvertir tiempo al principio, te ahorra tiempo después."
+  },
+  {
+    "objectID": "index.html#ecosistema",
+    "href": "index.html#ecosistema",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Ecosistema",
+    "text": "Ecosistema\n\nEscritura científica (\\(\\LaTeX\\), Quarto)\nAnálisis y visualización de datos (Python + Jupyter Notebook)\nStreaming y generación de contenido multimedia (OBS)\nSimulación y modelado científico (EnergyPlus, OpenFoam, pvlib,…)\nSistema operativo (Ubuntu-Linux)\nControl de versiones y colaboración (Git + GitHub)\n\nGestión de datos y metadatos (No los uso aún)\nAutomatización de tareas (Crontab en linux, n8n)\n\n\nEl software libre acompaña todo el ciclo de la investigación."
+  },
+  {
+    "objectID": "index.html#usos-de-foss-en-ciencia",
+    "href": "index.html#usos-de-foss-en-ciencia",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Usos de FOSS en ciencia",
+    "text": "Usos de FOSS en ciencia\n\nEscritura científica\n\nAnálisis y visualización de datos\n\nStreaming y generación de contenido multimedia\nSimulación y modelado científico\n\nSistema operativo\nControl de versiones y colaboración\n\nGestión de datos y metadatos\n\nAutomatización de tareas\n\n\nEl software libre acompaña todo el ciclo de la investigación."
+  },
+  {
+    "objectID": "index.html#escritura-científica-word-vs.-latex-vs.-quarto",
+    "href": "index.html#escritura-científica-word-vs.-latex-vs.-quarto",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Escritura científica: Word vs. LaTeX vs. Quarto",
+    "text": "Escritura científica: Word vs. LaTeX vs. Quarto\n\n\n\n\n\n\n\n\n\n\nHerramienta\nLicencia\nControl del formato\nReproducibilidad\nCurva de aprendizaje\n\n\n\n\nWord\nPropietaria\nVisual, limitada\nBaja\nBaja\n\n\nLaTeX\nLibre (FOSS)\nPrecisa y técnica\nAlta\nMedia-Alta\n\n\nQuarto\nLibre (FOSS)\nFlexible (Markdown)\nMuy alta\nMedia\n\n\n\n\nQuarto combina la sencillez del Markdown con el poder de LaTeX y R/Python."
+  },
+  {
+    "objectID": "index.html#wysiwyg-what-you-see-is-what-you-get",
+    "href": "index.html#wysiwyg-what-you-see-is-what-you-get",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "WYSIWYG: What You See Is What You Get",
+    "text": "WYSIWYG: What You See Is What You Get\n\nEdición visual directa (Word, PowerPoint)\nLo que ves en pantalla ≈ lo que se imprime\n\nPero… no siempre lo que quieres es lo que obtienes\n\n\nMover una imagen en Word puede ser una aventura…"
+  },
+  {
+    "objectID": "index.html#calidad-y-control-tipográfico",
+    "href": "index.html#calidad-y-control-tipográfico",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Calidad y control tipográfico",
+    "text": "Calidad y control tipográfico\n\nTipografía profesional y elegante\n\nControl preciso sobre formato y estilo\n\nSeparación entre contenido y presentación\n\nManejo impecable de fórmulas y símbolos científicos\n\nNumeración automática y consistente (figuras, tablas, ecuaciones)\nNo te preocupas por el template\n\n\nIdeal para artículos científicos, tesis y libros técnicos"
+  },
+  {
+    "objectID": "index.html#reproducibilidad-y-ciencia-abierta",
+    "href": "index.html#reproducibilidad-y-ciencia-abierta",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Reproducibilidad y ciencia abierta",
+    "text": "Reproducibilidad y ciencia abierta\n\nArchivos en texto plano → fáciles de versionar\n\nFunciona con Git y control de cambios\n\nIntegra código (R, Python) para informes reproducibles\n\nSin dependencias de software propietario o versiones\n\nAutomatizable con Makefiles o scripts\nFunciona igual en cualquier sistema operativo\n\n\nLaTeX te da trazabilidad y transparencia científica"
+  },
+  {
+    "objectID": "index.html#manejo-de-citas-y-bibliografía",
+    "href": "index.html#manejo-de-citas-y-bibliografía",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Manejo de citas y bibliografía",
+    "text": "Manejo de citas y bibliografía\n\nIntegración con BibTeX y CSL\n\nCitas automáticas y formateadas según el estilo requerido\n\nGeneración automática de bibliografía\n\nSoporte para listas de acrónimos, glosarios, índices\n\nCambiar de APA a IEEE con 1 línea de código\n\n\nNunca vuelvas a formatear referencias a mano"
+  },
+  {
+    "objectID": "index.html#bibtex",
+    "href": "index.html#bibtex",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Bibtex",
+    "text": "Bibtex"
+  },
+  {
+    "objectID": "index.html#bibtex-1",
+    "href": "index.html#bibtex-1",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Bibtex",
+    "text": "Bibtex"
+  },
+  {
+    "objectID": "index.html#estabilidad-garantizada",
+    "href": "index.html#estabilidad-garantizada",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Estabilidad garantizada",
+    "text": "Estabilidad garantizada\n\nNo se rompe por mover una figura o tabla\n\nMisma salida sin importar el sistema operativo\n\nCompatible con múltiples editores (VS Code, Overleaf, TeXstudio)\n\nNo requiere reinventar el formato en cada nuevo documento\nInstalable o uso en la nube\n\n\nLo que compilas, es lo que obtienes. Siempre."
+  },
+  {
+    "objectID": "index.html#colaboración-y-portabilidad",
+    "href": "index.html#colaboración-y-portabilidad",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Colaboración y portabilidad",
+    "text": "Colaboración y portabilidad\n\nCompatible con Git y plataformas como GitHub, GitLab\n\nEdición colaborativa en la nube con Overleaf\n\nExportación a PDF, HTML, Word, ePub (vía Pandoc)\n\nCódigo fuente legible y portable\n\n\nTrabaja en equipo sin preocuparte por versiones de Word"
+  },
+  {
+    "objectID": "index.html#quién-ha-usado-latex",
+    "href": "index.html#quién-ha-usado-latex",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Quién ha usado LaTeX?",
+    "text": "¿Quién ha usado LaTeX?\n\n¿Para escribir una tesis o artículo?\n¿Para hacer una presentación?\n¿Para insertar una ecuación en Word y luego rendirse?\n\n🙋‍♀️🙋‍♂️ Levanta la mano si:\n\nLo amas\nLo odias\nSobreviviste a una tesis con él\n\n\nHoy no venimos a juzgar… venimos a evolucionar 😎"
+  },
+  {
+    "objectID": "index.html#aprendizaje-valioso",
+    "href": "index.html#aprendizaje-valioso",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Aprendizaje valioso",
+    "text": "Aprendizaje valioso\n\nFomenta pensamiento estructurado\n\nMejora tus habilidades técnicas y de documentación\n\nEs un estándar en ciencia e ingeniería\n\nTe da independencia de herramientas cerradas\n\nAprender LaTeX es como aprender a escribir bien… con código\n\n\nUna inversión que rinde en toda tu carrera académica"
+  },
+  {
+    "objectID": "index.html#latex-está-muerto",
+    "href": "index.html#latex-está-muerto",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "🪦 LaTeX está muerto…",
+    "text": "🪦 LaTeX está muerto…\n…¡larga vida a Quarto!\n\nAdiós \\begin{figure}\n\nAdiós errores crípticos tipo “Missing \\endgroup”\n\nAdiós peleas con paquetes incompatibles\n\nAhora: - Escribes en Markdown\n- Integras y ejecutas código R/Python\n- Exportas a PDF, Word, HTML, presentación, libro…\nUna sola fuente → todos los formatos\n\nQuarto es como LaTeX… pero sin sufrimiento. 😌"
+  },
+  {
+    "objectID": "index.html#conozcamos-quarto",
+    "href": "index.html#conozcamos-quarto",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Conozcamos Quarto",
+    "text": "Conozcamos Quarto\nQuarto.org"
+  },
+  {
+    "objectID": "index.html#una-tesis-de-lier",
+    "href": "index.html#una-tesis-de-lier",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Una tesis de LIER",
+    "text": "Una tesis de LIER\nDTHIS-C"
+  },
+  {
+    "objectID": "index.html#una-tesis-de-maestría",
+    "href": "index.html#una-tesis-de-maestría",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Una tesis de Maestría",
+    "text": "Una tesis de Maestría\nReloj inteligente"
+  },
+  {
+    "objectID": "index.html#una-tesis-de-doctorado",
+    "href": "index.html#una-tesis-de-doctorado",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Una tesis de Doctorado",
+    "text": "Una tesis de Doctorado\nHigh-resolution wind speed"
+  },
+  {
+    "objectID": "index.html#material-suplementario-de-un-paper",
+    "href": "index.html#material-suplementario-de-un-paper",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Material suplementario de un paper",
+    "text": "Material suplementario de un paper\nMaterial Suplementario"
+  },
+  {
+    "objectID": "index.html#simplicidad-y-aprendizaje",
+    "href": "index.html#simplicidad-y-aprendizaje",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Simplicidad y aprendizaje",
+    "text": "Simplicidad y aprendizaje\n\nUsa Markdown, más simple y legible que LaTeX\n\nMenos sintaxis técnica (**negritas** vs \\textbf{})\n\nIdeal para quienes vienen de Word o Jupyter\n\nMenor curva de aprendizaje\n\nEvita comandos crípticos y estructuras repetitivas\n\n\nQuarto es accesible desde el primer día"
+  },
+  {
+    "objectID": "index.html#mantenimiento-y-productividad",
+    "href": "index.html#mantenimiento-y-productividad",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Mantenimiento y productividad",
+    "text": "Mantenimiento y productividad\n\nMenos archivos auxiliares\n\nEvita errores por sintaxis estricta\n\nConfiguración clara con YAML\n\nSin peleas con paquetes\n\n\nProduce más, pelea menos"
+  },
+  {
+    "objectID": "index.html#código-y-reproducibilidad",
+    "href": "index.html#código-y-reproducibilidad",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Código y reproducibilidad",
+    "text": "Código y reproducibilidad\n\nIntegra código R, Python, Julia, Observable JS\n\nEjecuta y muestra resultados automáticamente\n\nUnifica texto, visualización y análisis en un solo archivo\n\nOculta o muestra código según el público\n\nDocumentos 100% reproducibles\n\n\nCiencia sin copiar/pegar resultados"
+  },
+  {
+    "objectID": "index.html#salidas-múltiples",
+    "href": "index.html#salidas-múltiples",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Salidas múltiples",
+    "text": "Salidas múltiples\n\nDe un .qmd puedes generar:\n\nPDF (con LaTeX)\n\nWord\n\nHTML\n\nPresentaciones\n\nLibros y sitios\n\nNo hay que reescribir nada para cambiar de formato\n\n\nEscribe una vez, publica en todas partes"
+  },
+  {
+    "objectID": "index.html#multimedia-y-diseño-moderno",
+    "href": "index.html#multimedia-y-diseño-moderno",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Multimedia y diseño moderno",
+    "text": "Multimedia y diseño moderno\n\nImágenes escalables automáticamente\n\nSoporte para videos, GIFs, y visuales interactivos\n\nIntegra gráficos en vivo: Plotly, Leaflet, Vega\n\nPresentaciones Revealjs responsivas y limpias\n\n\nVisualiza como un profesional sin tocar CSS"
+  },
+  {
+    "objectID": "index.html#automatización-y-reproducibilidad",
+    "href": "index.html#automatización-y-reproducibilidad",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Automatización y reproducibilidad",
+    "text": "Automatización y reproducibilidad\n\nSe integra con Git, Make, Snakemake\n\nEntornos controlados: conda, uv, Docker\n\nParámetros dinámicos: genera versiones múltiples de un documento\n\nReproducibilidad real, no promesas\n\n\nLa ciencia buena también se puede repetir"
+  },
+  {
+    "objectID": "index.html#colaboración-y-docencia",
+    "href": "index.html#colaboración-y-docencia",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Colaboración y docencia",
+    "text": "Colaboración y docencia\n\nArchivos .qmd fáciles de leer y compartir\n\nIdeal para tareas, notebooks, reportes y tutoriales\n\nCompatible con GitHub y plataformas educativas\n\nPerfecto para enseñanza reproducible y abierta\nNarrativa computacional\n\n\nComparte ciencia, no solo PDFs"
+  },
+  {
+    "objectID": "index.html#referencias-y-bibliografía",
+    "href": "index.html#referencias-y-bibliografía",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Referencias y bibliografía",
+    "text": "Referencias y bibliografía\n\nCitas automáticas con BibTeX, CSL, Zotero\n\nEstilos intercambiables (APA, IEEE, Nature, etc.)\n\nGeneración automática de bibliografía\n\nNotas al pie, DOI, enlaces: todo controlado\n\n\nBibliografía bien hecha, sin dolor"
+  },
+  {
+    "objectID": "index.html#otros-beneficios-prácticos",
+    "href": "index.html#otros-beneficios-prácticos",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Otros beneficios prácticos",
+    "text": "Otros beneficios prácticos\n\nDocumentación moderna y clara (quarto.org)\n\nComunidad activa y libre\n\nCompatible con Jupyter, VS Code y RStudio\n\nTodo es FOSS\n\nNo necesitas saber LaTeX (aunque puedes usarlo si quieres)\n\n\nQuarto te acompaña en todo el ciclo científico"
+  },
+  {
+    "objectID": "index.html#en-resumen",
+    "href": "index.html#en-resumen",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "En resumen…",
+    "text": "En resumen…\n\nLaTeX fue genial.\n\nPero Quarto es:\n\nMás fácil\n\nMás moderno\n\nMás reproducible\n\nMás versátil\n\n\n\nEscribe código, escribe texto, genera ciencia.\n\nBienvenido a la era del .qmd"
+  },
+  {
+    "objectID": "index.html#la-decisión-es-tuya",
+    "href": "index.html#la-decisión-es-tuya",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "La decisión es tuya",
+    "text": "La decisión es tuya\n\n\nYou take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the purple pill, you stay in Wonderland, and I show you how deep the rabbit hole goes.”"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "",
+    "text": "Tomas la pastilla Word:\n\nSigues formateando a mano cada figura,\nluchas con estilos y guardas 12 versiones del mismo archivo.\n\nTomas la pastilla Quarto:\n\nEscribes en Markdown,\nintegras código y datos,\ny descubres lo que es una vida científica reproducible."
+  },
+  {
+    "objectID": "index.html#por-qué-empezar-con-python-jupyter",
+    "href": "index.html#por-qué-empezar-con-python-jupyter",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Por qué empezar con Python + Jupyter?",
+    "text": "¿Por qué empezar con Python + Jupyter?\n\n🐍 Lenguaje claro, legible y popular\n📦 Gran ecosistema para ciencia de datos: NumPy, Pandas, Matplotlib, Scikit-learn, etc.\n📊 Permite visualizar datos paso a paso en el mismo entorno\n🔁 Código y resultados juntos: ideal para aprendizaje iterativo\n📚 Gran cantidad de recursos, tutoriales y notebooks compartidos\n🧪 Permite hacer pruebas rápidas sin compilar\n✏️ Ideal para tomar notas, documentar y aprender al mismo tiempo\n🌐 Basado en navegador: no requiere instalación compleja\n🔗 Fácil de integrar con datos reales (CSV, Excel, SQL, APIs)\n💬 Soporte para visualizaciones interactivas (Plotly, Bokeh, etc.)\n🧠 Alineado con principios de ciencia reproducible y FAIR\n🤝 Comunidad muy activa en ciencia, academia y empresas\n📁 Compatible con Git, Quarto y otros entornos más avanzados\n💻 Configurable para equipo antiguo\n\n\nJupyter no es solo un cuaderno, es una puerta de entrada al análisis científico moderno."
+  }
+]

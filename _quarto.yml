@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs  
 
-format: 
-  revealjs:
-    slide-number: c/t  
-    touch: true
-    footer: Curso de Inducción, 4 de agosto, 2025.
-    theme: white
-    fit-text: true
-    vertical-center: true
+# format: 
+#   revealjs:
+#     slide-number: c/t  
+#     touch: true
+#     footer: Curso de Inducción, 4 de agosto, 2025.
+#     theme: white
+#     fit-text: true
+#     vertical-center: true
 

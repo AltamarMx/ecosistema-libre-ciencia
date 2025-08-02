@@ -1,45 +1,101 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "",
+    "text": "Lo que hubiera deseado que me dijeran que aprendiera durante mi posgrado en herramientas\n\n\n\n\nGratis: no pagas dinero\nLibre: tienes libertad\n\nUsar con cualquier propósito\nEstudiar cómo funciona\nModificarlo\nCompartirlo\nHacer modelo de negocio\n\n\n\nPuedes pagar por algo libre, y algo gratis puede no darte libertad\n\n\n\n\nFOSS = Free and Open Source Software\n\nFree: libertad de uso, no necesariamente sin costo\nOpen Source: el código está disponible y auditable\nPromueve:\n\nCiencia reproducible\nTransparencia\nColaboración global\n\n\n\n\n\n\n\n\n\n\n\n\n\nCaracterística\nFOSS\nPropietario\n\n\n\n\nAcceso al código\nAbierto\nCerrado\n\n\nCosto\nPuede ser gratis o con soporte\nGeneralmente con licencia\n\n\nLibertad de uso\nSin restricciones\nLimitado por licencia\n\n\nPersonalización\nTotal (puedes modificarlo)\nMuy limitada o nula\n\n\nComunidad\nAbierta y colaborativa\nControlada por una empresa\n\n\n\n\n\n\n\n💸 Económico: sin licencias costosas, accesible para todos\n🌍 Comunidad global: soporte activo, mejora continua\n🔄 Reproducible: auditable, trazable, replicable\n🧠 Transparente: entiendes cómo y por qué funciona\n🤝 Filosofía de compartir: ciencia como bien común\n🧭 Autonomía: sin depender de corporaciones ni cajas negras\n\n\nFOSS no es solo software, es una postura ética ante el conocimiento.\n\n\n\n\n\nSí: curva de aprendizaje más dura\nPero…\n\nAprendes cómo funciona realmente\nEvitas dependencias opacas\nAutomatizas tareas repetitivas\nEscalas sin licencias ni límites\nTe haces más autónomo y eficiente\n\n\n\nInvertir tiempo al principio, te ahorra tiempo después."
+  },
+  {
     "objectID": "index.html#libre-gratis",
     "href": "index.html#libre-gratis",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "¿Libre ≠ Gratis?",
-    "text": "¿Libre ≠ Gratis?\n\nGratis: no pagas dinero\nLibre: tienes libertad\n\nUsar con cualquier propósito\nEstudiar cómo funciona\nModificarlo\nCompartirlo\nHacer modelo de negocio\n\n\n\nPuedes pagar por algo libre, y algo gratis puede no darte libertad"
+    "section": "",
+    "text": "Gratis: no pagas dinero\nLibre: tienes libertad\n\nUsar con cualquier propósito\nEstudiar cómo funciona\nModificarlo\nCompartirlo\nHacer modelo de negocio\n\n\n\nPuedes pagar por algo libre, y algo gratis puede no darte libertad"
   },
   {
     "objectID": "index.html#qué-es-foss",
     "href": "index.html#qué-es-foss",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "¿Qué es FOSS?",
-    "text": "¿Qué es FOSS?\nFOSS = Free and Open Source Software\n\nFree: libertad de uso, no necesariamente sin costo\nOpen Source: el código está disponible y auditable\nPromueve:\n\nCiencia reproducible\nTransparencia\nColaboración global"
+    "section": "",
+    "text": "FOSS = Free and Open Source Software\n\nFree: libertad de uso, no necesariamente sin costo\nOpen Source: el código está disponible y auditable\nPromueve:\n\nCiencia reproducible\nTransparencia\nColaboración global"
   },
   {
     "objectID": "index.html#foss-vs.-software-propietario",
     "href": "index.html#foss-vs.-software-propietario",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "FOSS vs. Software propietario",
-    "text": "FOSS vs. Software propietario\n\n\n\n\n\n\n\n\nCaracterística\nFOSS\nPropietario\n\n\n\n\nAcceso al código\nAbierto\nCerrado\n\n\nCosto\nPuede ser gratis o con soporte\nGeneralmente con licencia\n\n\nLibertad de uso\nSin restricciones\nLimitado por licencia\n\n\nPersonalización\nTotal (puedes modificarlo)\nMuy limitada o nula\n\n\nComunidad\nAbierta y colaborativa\nControlada por una empresa"
+    "section": "",
+    "text": "Característica\nFOSS\nPropietario\n\n\n\n\nAcceso al código\nAbierto\nCerrado\n\n\nCosto\nPuede ser gratis o con soporte\nGeneralmente con licencia\n\n\nLibertad de uso\nSin restricciones\nLimitado por licencia\n\n\nPersonalización\nTotal (puedes modificarlo)\nMuy limitada o nula\n\n\nComunidad\nAbierta y colaborativa\nControlada por una empresa"
   },
   {
     "objectID": "index.html#por-qué-usar-foss-en-ciencia",
     "href": "index.html#por-qué-usar-foss-en-ciencia",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "¿Por qué usar FOSS en ciencia?",
-    "text": "¿Por qué usar FOSS en ciencia?\n\n💸 Económico: sin licencias costosas, accesible para todos\n🌍 Comunidad global: soporte activo, mejora continua\n🔄 Reproducible: auditable, trazable, replicable\n🧠 Transparente: entiendes cómo y por qué funciona\n🤝 Filosofía de compartir: ciencia como bien común\n🧭 Autonomía: sin depender de corporaciones ni cajas negras\n\n\nFOSS no es solo software, es una postura ética ante el conocimiento.\n\nClaro, aquí tienes una diapositiva breve y directa que aborda esa paradoja de la curva de aprendizaje:"
+    "section": "",
+    "text": "💸 Económico: sin licencias costosas, accesible para todos\n🌍 Comunidad global: soporte activo, mejora continua\n🔄 Reproducible: auditable, trazable, replicable\n🧠 Transparente: entiendes cómo y por qué funciona\n🤝 Filosofía de compartir: ciencia como bien común\n🧭 Autonomía: sin depender de corporaciones ni cajas negras\n\n\nFOSS no es solo software, es una postura ética ante el conocimiento."
   },
   {
     "objectID": "index.html#foss-es-difícil",
     "href": "index.html#foss-es-difícil",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "¿FOSS es difícil?",
-    "text": "¿FOSS es difícil?\n\nSí: curva de aprendizaje más dura\nPero…\n\nAprendes cómo funciona realmente\nEvitas dependencias opacas\nAutomatizas tareas repetitivas\nEscalas sin licencias ni límites\nTe haces más autónomo y eficiente\n\n\n\nInvertir tiempo al principio, te ahorra tiempo después."
+    "section": "",
+    "text": "Sí: curva de aprendizaje más dura\nPero…\n\nAprendes cómo funciona realmente\nEvitas dependencias opacas\nAutomatizas tareas repetitivas\nEscalas sin licencias ni límites\nTe haces más autónomo y eficiente\n\n\n\nInvertir tiempo al principio, te ahorra tiempo después."
   },
   {
-    "objectID": "index.html#ecosistema",
-    "href": "index.html#ecosistema",
+    "objectID": "index.html#escritura-científica",
+    "href": "index.html#escritura-científica",
     "title": "Ecosistema libre para hacier CIENCIA",
-    "section": "Ecosistema",
-    "text": "Ecosistema\n\nEscritura científica (\\(\\LaTeX\\), Quarto)\nAnálisis y visualización de datos (Python + Jupyter Notebook)\nStreaming y generación de contenido multimedia (OBS)\nSimulación y modelado científico (EnergyPlus, OpenFoam, pvlib,…)\nSistema operativo (Ubuntu-Linux)\nControl de versiones y colaboración (Git + GitHub)\n\nGestión de datos y metadatos (No los uso aún)\nAutomatización de tareas (Crontab en linux, n8n)\n\n\nEl software libre acompaña todo el ciclo de la investigación."
+    "section": "Escritura científica",
+    "text": "Escritura científica\n\\(\\LaTeX\\) Quarto"
+  },
+  {
+    "objectID": "index.html#análisis-y-visualización-de-datos",
+    "href": "index.html#análisis-y-visualización-de-datos",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Análisis y visualización de datos",
+    "text": "Análisis y visualización de datos\nPython + Jupyter Notebook"
+  },
+  {
+    "objectID": "index.html#streaming-y-generación-de-contenido-multimedia",
+    "href": "index.html#streaming-y-generación-de-contenido-multimedia",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Streaming y generación de contenido multimedia",
+    "text": "Streaming y generación de contenido multimedia\nOBS"
+  },
+  {
+    "objectID": "index.html#simulación-y-modelado-científico",
+    "href": "index.html#simulación-y-modelado-científico",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Simulación y modelado científico",
+    "text": "Simulación y modelado científico\nEnergyPlus, OpenFoam, pvlib"
+  },
+  {
+    "objectID": "index.html#sistema-operativo",
+    "href": "index.html#sistema-operativo",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Sistema operativo",
+    "text": "Sistema operativo\nUbuntu-Linux"
+  },
+  {
+    "objectID": "index.html#control-de-versiones-y-colaboración",
+    "href": "index.html#control-de-versiones-y-colaboración",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Control de versiones y colaboración",
+    "text": "Control de versiones y colaboración\nGit + GitHub"
+  },
+  {
+    "objectID": "index.html#gestión-de-datos-y-metadatos",
+    "href": "index.html#gestión-de-datos-y-metadatos",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Gestión de datos y metadatos",
+    "text": "Gestión de datos y metadatos\nZenodo y Frictionless Data"
+  },
+  {
+    "objectID": "index.html#automatización-de-tareas",
+    "href": "index.html#automatización-de-tareas",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "Automatización de tareas",
+    "text": "Automatización de tareas\nCrontab en linux, n8n"
   },
   {
     "objectID": "index.html#usos-de-foss-en-ciencia",
@@ -130,7 +186,7 @@
     "href": "index.html#latex-está-muerto",
     "title": "Ecosistema libre para hacier CIENCIA",
     "section": "🪦 LaTeX está muerto…",
-    "text": "🪦 LaTeX está muerto…\n…¡larga vida a Quarto!\n\nAdiós \\begin{figure}\n\nAdiós errores crípticos tipo “Missing \\endgroup”\n\nAdiós peleas con paquetes incompatibles\n\nAhora: - Escribes en Markdown\n- Integras y ejecutas código R/Python\n- Exportas a PDF, Word, HTML, presentación, libro…\nUna sola fuente → todos los formatos\n\nQuarto es como LaTeX… pero sin sufrimiento. 😌"
+    "text": "🪦 LaTeX está muerto…\n\n…¡larga vida a Quarto!\n\nAdiós \\begin{figure}\n\nAdiós errores crípticos tipo “Missing \\endgroup”\n\nAdiós peleas con paquetes incompatibles\n\nAhora: - Escribes en Markdown\n- Integras y ejecutas código R/Python\n- Exportas a PDF, Word, HTML, presentación, libro…\nUna sola fuente → todos los formatos\n\nQuarto es como LaTeX… pero sin sufrimiento. 😌"
   },
   {
     "objectID": "index.html#conozcamos-quarto",
@@ -245,8 +301,8 @@
     "text": "La decisión es tuya\n\n\nYou take the blue pill, the story ends. You wake up in your bed and believe whatever you want to believe. You take the purple pill, you stay in Wonderland, and I show you how deep the rabbit hole goes.”"
   },
   {
-    "objectID": "index.html#section-2",
-    "href": "index.html#section-2",
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
     "title": "Ecosistema libre para hacier CIENCIA",
     "section": "",
     "text": "Tomas la pastilla Word:\n\nSigues formateando a mano cada figura,\nluchas con estilos y guardas 12 versiones del mismo archivo.\n\nTomas la pastilla Quarto:\n\nEscribes en Markdown,\nintegras código y datos,\ny descubres lo que es una vida científica reproducible."
@@ -257,5 +313,19 @@
     "title": "Ecosistema libre para hacier CIENCIA",
     "section": "¿Por qué empezar con Python + Jupyter?",
     "text": "¿Por qué empezar con Python + Jupyter?\n\n🐍 Lenguaje claro, legible y popular\n📦 Gran ecosistema para ciencia de datos: NumPy, Pandas, Matplotlib, Scikit-learn, etc.\n📊 Permite visualizar datos paso a paso en el mismo entorno\n🔁 Código y resultados juntos: ideal para aprendizaje iterativo\n📚 Gran cantidad de recursos, tutoriales y notebooks compartidos\n🧪 Permite hacer pruebas rápidas sin compilar\n✏️ Ideal para tomar notas, documentar y aprender al mismo tiempo\n🌐 Basado en navegador: no requiere instalación compleja\n🔗 Fácil de integrar con datos reales (CSV, Excel, SQL, APIs)\n💬 Soporte para visualizaciones interactivas (Plotly, Bokeh, etc.)\n🧠 Alineado con principios de ciencia reproducible y FAIR\n🤝 Comunidad muy activa en ciencia, academia y empresas\n📁 Compatible con Git, Quarto y otros entornos más avanzados\n💻 Configurable para equipo antiguo\n\n\nJupyter no es solo un cuaderno, es una puerta de entrada al análisis científico moderno."
+  },
+  {
+    "objectID": "index.html#qué-es-git-y-por-qué-deberías-usarlo",
+    "href": "index.html#qué-es-git-y-por-qué-deberías-usarlo",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Qué es Git y por qué deberías usarlo?",
+    "text": "¿Qué es Git y por qué deberías usarlo?\n\nImagina que estás escribiendo tu tesis o trabajando en un proyecto de clase. Guardas archivos como informe_final_v2_ultimísimo_CORREGIDO.docx. Ahora imagina que puedes guardar cada cambio, volver atrás cuando algo sale mal, trabajar en paralelo con tu equipo sin pisarse los pies, y tener todo tu historial de versiones bien documentado. Eso es Git: un sistema de control de versiones. Y si usas GitHub, puedes además respaldar tu trabajo en la nube, colaborar con otras personas, y hasta publicar tu proyecto como sitio web o portafolio.\n\n\nGit no es solo para programadores, es una herramienta esencial para documentar, colaborar y no perder el control de tu trabajo."
+  },
+  {
+    "objectID": "index.html#por-qué-usar-git-github-en-ciencia",
+    "href": "index.html#por-qué-usar-git-github-en-ciencia",
+    "title": "Ecosistema libre para hacier CIENCIA",
+    "section": "¿Por qué usar Git + GitHub en ciencia?",
+    "text": "¿Por qué usar Git + GitHub en ciencia?\n\n🔄 Control de versiones: guarda el historial de tu trabajo, paso a paso\n\n🧠 Trazabilidad completa de código, texto y datos\n\n💥 Recuperación ante errores o pérdida de archivos\n\n🤝 Colaboración sin conflictos (ramas, pull requests, comentarios)\n\n📚 Documentación viva: cada cambio cuenta\n\n🌐 Publicación sencilla de sitios web, blogs y visualizaciones (GitHub Pages)\n\n🧪 Ciencia reproducible: código, datos y análisis siempre accesibles\n\n👀 Transparencia: auditable por ti y por la comunidad\n\n📁 Integración con Quarto, Jupyter, RStudio, VS Code, etc.\n\n🏷️ Versionado de resultados, figuras y datasets\n\n🔓 Compatible con licencias abiertas y citación formal (DOI via Zenodo)\n💻 Compatible con agentes de IA como Codex\n\n\nGit no es solo para programadores, es para hacer ciencia con rigor."
   }
 ]

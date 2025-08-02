@@ -1,0 +1,26 @@
+
+
+# Ciencia de datos con Python y Jupyter Notebook
+
+## ¿Por qué empezar con Python + Jupyter?  {.scrollable}
+
+- 🐍 Lenguaje **claro, legible y popular**
+- 📦 Gran ecosistema para ciencia de datos: NumPy, Pandas, Matplotlib, Scikit-learn, etc.
+- 📊 Permite visualizar datos paso a paso en el mismo entorno
+- 🔁 Código y resultados juntos: ideal para **aprendizaje iterativo**
+- 📚 Gran cantidad de recursos, tutoriales y notebooks compartidos
+- 🧪 Permite hacer pruebas rápidas sin compilar
+- ✏️ Ideal para tomar notas, documentar y aprender al mismo tiempo
+- 🌐 Basado en navegador: no requiere instalación compleja
+- 🔗 Fácil de integrar con datos reales (CSV, Excel, SQL, APIs)
+- 💬 Soporte para visualizaciones interactivas (Plotly, Bokeh, etc.)
+- 🧠 Alineado con principios de ciencia reproducible y FAIR
+- 🤝 Comunidad muy activa en ciencia, academia y empresas
+- 📁 Compatible con Git, Quarto y otros entornos más avanzados
+- 💻 Configurable para equipo antiguo
+
+> *Jupyter no es solo un cuaderno, es una puerta de entrada al análisis científico moderno.*
+
+
+
+# Demo de uso de datos y dataviz

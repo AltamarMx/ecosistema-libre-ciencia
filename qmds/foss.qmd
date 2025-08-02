@@ -1,0 +1,54 @@
+
+# ¿Qué es **FOSS**?
+
+**FOSS** = *Free and Open Source Software*
+
+* **Free**: libertad de uso, no necesariamente sin costo
+* **Open Source**: el código está disponible y auditable
+* Promueve:
+
+  * **Ciencia reproducible**
+  * **Transparencia**
+  * **Colaboración global**
+
+
+## FOSS vs. Software propietario
+
+| Característica   | **FOSS**                       | **Propietario**            |
+| ---------------- | ------------------------------ | -------------------------- |
+| Acceso al código | Abierto                        | Cerrado                    |
+| Costo            | Puede ser gratis o con soporte | Generalmente con licencia  |
+| Libertad de uso  | Sin restricciones              | Limitado por licencia      |
+| Personalización  | Total (puedes modificarlo)     | Muy limitada o nula        |
+| Comunidad        | Abierta y colaborativa         | Controlada por una empresa |
+
+
+
+
+
+## ¿Por qué usar FOSS en ciencia?
+
+* 💸 **Económico**: sin licencias costosas, accesible para todos
+* 🌍 **Comunidad global**: soporte activo, mejora continua
+* 🔄 **Reproducible**: auditable, trazable, replicable
+* 🧠 **Transparente**: entiendes cómo y por qué funciona
+* 🤝 **Filosofía de compartir**: ciencia como bien común
+* 🧭 **Autonomía**: sin depender de corporaciones ni cajas negras
+
+> *FOSS no es solo software, es una postura ética ante el conocimiento.*
+
+
+
+
+## ¿FOSS es difícil?
+
+* Sí: **curva de aprendizaje más dura**
+* Pero...
+
+  * Aprendes cómo funciona realmente
+  * Evitas dependencias opacas
+  * Automatizas tareas repetitivas
+  * Escalas sin licencias ni límites
+  * Te haces **más autónomo** y **eficiente**
+
+> *Invertir tiempo al principio, te ahorra tiempo después.*

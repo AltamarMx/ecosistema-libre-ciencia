@@ -1,0 +1,61 @@
+
+
+# Ecosistema libre para la ciencia
+ 
+
+
+## Escritura científica   
+
+$\LaTeX$ 
+Quarto
+ 
+
+## Análisis y visualización de datos  
+
+Python + Jupyter Notebook
+
+
+## Streaming y generación de contenido multimedia 
+
+OBS
+
+
+## Simulación y modelado científico  
+
+EnergyPlus, OpenFoam, pvlib
+
+
+## Sistema operativo
+
+Ubuntu-Linux
+
+##  Control de versiones y colaboración 
+Git + GitHub  
+
+## Gestión de datos y metadatos  
+
+Zenodo y Frictionless Data
+
+## Automatización de tareas 
+
+Crontab en linux, n8n
+
+
+
+> *El software libre puede acompañar todo el ciclo de la investigación.*
+
+
+<!-- 
+
+## Usos de FOSS en ciencia
+
+- Escritura científica  
+- Análisis y visualización de datos  
+- Streaming y generación de contenido multimedia
+- Simulación y modelado científico  
+- Sistema operativo
+- Control de versiones y colaboración  
+- Gestión de datos y metadatos  
+- Automatización de tareas
+
+> *El software libre acompaña todo el ciclo de la investigación.* -->

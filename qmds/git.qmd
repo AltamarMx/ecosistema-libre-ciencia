@@ -1,0 +1,29 @@
+# Git y GitHub
+
+
+![](images/version_final.png)
+
+## ¿Qué es Git y por qué deberías usarlo? {.small}
+
+> Imagina que estás escribiendo tu tesis o trabajando en un proyecto de clase. Guardas archivos como `informe_final_v2_ultimísimo_CORREGIDO.docx`. Ahora imagina que puedes guardar **cada cambio**, volver atrás cuando algo sale mal, trabajar en paralelo con tu equipo sin pisarse los pies, y tener todo tu historial de versiones bien documentado. Eso es **Git**: un sistema de control de versiones. Y si usas **GitHub**, puedes además respaldar tu trabajo en la nube, colaborar con otras personas, y hasta publicar tu proyecto como sitio web o portafolio.  
+
+>Git no es solo para programadores, es una herramienta esencial para **documentar, colaborar y no perder el control de tu trabajo**.
+
+
+
+## ¿Por qué usar Git + GitHub en ciencia? {.scrollable}
+
+- 🔄 Control de versiones: guarda el historial de tu trabajo, paso a paso  
+- 🧠 Trazabilidad completa de código, texto y datos  
+- 💥 Recuperación ante errores o pérdida de archivos  
+- 🤝 Colaboración sin conflictos (ramas, pull requests, comentarios)  
+- 📚 Documentación viva: cada cambio cuenta  
+- 🌐 Publicación sencilla de sitios web, blogs y visualizaciones (GitHub Pages)  
+- 🧪 Ciencia reproducible: código, datos y análisis siempre accesibles  
+- 👀 Transparencia: auditable por ti y por la comunidad  
+- 📁 Integración con Quarto, Jupyter, RStudio, VS Code, etc.  
+- 🏷️ Versionado de resultados, figuras y datasets  
+- 🔓 Compatible con licencias abiertas y citación formal (DOI via Zenodo)
+- 💻 Compatible con agentes de IA como Codex
+
+> *Git no es solo para programadores, es para hacer ciencia con rigor.*

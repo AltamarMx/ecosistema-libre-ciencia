@@ -1,0 +1,147 @@
+
+# Escritura científica con $\LaTeX$
+
+## Escritura científica: Word vs. LaTeX vs. Quarto
+
+| Herramienta | Licencia     | Control del formato | Reproducibilidad | Curva de aprendizaje |
+|-------------|--------------|---------------------|------------------|----------------------|
+| Word        | Propietaria  | Visual, limitada    | Baja             | Baja                 |
+| LaTeX       | Libre (FOSS) | Precisa y técnica   | Alta             | Media-Alta           |
+| Quarto      | Libre (FOSS) | Flexible (Markdown) | Muy alta         | Media                |
+
+> *Quarto combina la sencillez del Markdown con el poder de LaTeX y R/Python.*
+
+
+
+![](images/HhVnBVm.gif)
+
+## WYSIWYG: What You See Is What You Get
+
+- Edición visual directa (Word, PowerPoint)
+- Lo que ves en pantalla ≈ lo que se imprime  
+- Pero… **no siempre lo que quieres es lo que obtienes**
+
+
+> Mover una imagen en Word puede ser una aventura…
+
+
+
+## Calidad y control tipográfico
+
+- Tipografía profesional y elegante  
+- Control preciso sobre formato y estilo  
+- Separación entre **contenido** y **presentación**  
+- Manejo impecable de fórmulas y símbolos científicos  
+- Numeración automática y consistente (figuras, tablas, ecuaciones)
+- No te preocupas por el template
+
+> Ideal para artículos científicos, tesis y libros técnicos
+
+
+
+## Reproducibilidad y ciencia abierta
+
+- Archivos en texto plano → fáciles de versionar  
+- Funciona con Git y control de cambios  
+- Integra código (R, Python) para informes reproducibles  
+- Sin dependencias de software propietario o versiones  
+- Automatizable con Makefiles o scripts
+- Funciona igual en cualquier sistema operativo
+
+> LaTeX te da trazabilidad y transparencia científica
+
+
+
+
+## Manejo de citas y bibliografía
+
+- Integración con **BibTeX** y **CSL**  
+- Citas automáticas y formateadas según el estilo requerido  
+- Generación automática de bibliografía  
+- Soporte para listas de acrónimos, glosarios, índices  
+- Cambiar de APA a IEEE con 1 línea de código
+
+> Nunca vuelvas a formatear referencias a mano
+
+## Bibtex
+
+![](../images/bibtex.png)
+
+## Bibtex
+
+![](images/humpreys.png)
+
+
+## Estabilidad garantizada
+
+- No se rompe por mover una figura o tabla  
+- Misma salida sin importar el sistema operativo  
+- Compatible con múltiples editores (VS Code, Overleaf, TeXstudio)  
+- No requiere reinventar el formato en cada nuevo documento
+- Instalable o uso en la nube
+
+> Lo que compilas, es lo que obtienes. Siempre.
+
+
+
+## Colaboración y portabilidad
+
+- Compatible con Git y plataformas como GitHub, GitLab  
+- Edición colaborativa en la nube con Overleaf  
+- Exportación a PDF, HTML, Word, ePub (vía Pandoc)  
+- Código fuente legible y portable
+
+> Trabaja en equipo sin preocuparte por versiones de Word
+
+
+
+## ¿Quién ha usado LaTeX?
+
+- ¿Para escribir una tesis o artículo?
+- ¿Para hacer una presentación?
+- ¿Para insertar una ecuación en Word y luego rendirse?
+
+🙋‍♀️🙋‍♂️ Levanta la mano si:
+
+- Lo amas
+- Lo odias
+- Sobreviviste a una tesis con él
+
+> Hoy no venimos a juzgar… venimos a evolucionar 😎
+
+
+
+## Aprendizaje valioso
+
+- Fomenta pensamiento estructurado  
+- Mejora tus habilidades técnicas y de documentación  
+- Es un estándar en ciencia e ingeniería  
+- Te da independencia de herramientas cerradas  
+- Aprender LaTeX es como aprender a escribir bien... con código
+
+> Una inversión que rinde en toda tu carrera académica
+
+
+## 
+
+![](images/god-dead.png)
+
+
+## 🪦 LaTeX está muerto...
+
+
+
+### ...¡larga vida a **Quarto**!
+
+- Adiós `\begin{figure}`  
+- Adiós errores crípticos tipo "Missing \\endgroup"  
+- Adiós peleas con paquetes incompatibles
+
+Ahora:
+- Escribes en Markdown  
+- Integras y ejecutas código R/Python  
+- Exportas a PDF, Word, HTML, presentación, libro…
+
+**Una sola fuente → todos los formatos**
+
+> *Quarto es como LaTeX… pero sin sufrimiento.* 😌
